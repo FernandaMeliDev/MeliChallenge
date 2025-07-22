@@ -5,7 +5,8 @@
 Utilizar Python para simular a extração e processamento de dados que poderiam ser utilizados para monitorar a "saúde" da informação de Compliance, e realizar uma análise exploratória.
 
 ### Descrição da Necessidade: 
-A equipe de C&M busca garantir a integridade dos dados e a adoção de práticas analíticas. Frequentemente, isso implica interagir com APIs internas ou externas para obter informações relevantes.
+A equipe de C&M busca garantir a integridade dos dados e adoção de práticas analíticas. Frequentemente, isso implica interagir com APIs internas ou externas para obter informações relvantes.
+
 ---
 
 ## Fluxo da Solução
